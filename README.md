@@ -1,4 +1,4 @@
-# Setiment Analysis
+# Sentiment Analysis
 A project of sentiment analysis based on twitter dataset.
 
 # Motivation
